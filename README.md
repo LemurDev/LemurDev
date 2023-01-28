@@ -1,18 +1,15 @@
 # 👋 About Me
 
 - You can call me Lemur
-- Currently attending High School
-- Aspiring to become a System Administrator
+- From Canada or something
+- Huge tech nerd
 
 # 💻 Languages
 
 - Python
-- Bash
-
-# 🏫 Currently Learing
-
 - Java
-- Nvim
+- Bash
+- Currently Learning GOLANG
 
 # 📋 GitHub Stats
 

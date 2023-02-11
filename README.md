@@ -9,7 +9,6 @@
 - Python
 - Java
 - Bash
-- Currently Learning GOLANG
 
 # 📋 GitHub Stats
 
